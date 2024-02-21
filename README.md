@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Starting the Application
 
-Run `node server.js`, the app will run on 4242, this incorporates all the proper functionality for the applicaiton to work. the dev server from `ng serve` should still be running upon doing so
+Run `node server.js` in the server folder, the app will run on 4242, this incorporates all the proper functionality for the applicaiton to work. the dev server from `ng serve` should still be running upon doing so
